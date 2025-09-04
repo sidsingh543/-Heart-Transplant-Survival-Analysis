@@ -1,2 +1,2 @@
 # -Heart-Transplant-Survival-Analysis
-Conducted survival analysis on patient heart transplant data using R (survival package) and Python (lifelines) to study long-term outcomes.
+Conducted survival analysis on patient heart transplant data using R (survival package) and Python (lifelines) to study long-term outcomes. Applied Kaplan–Meier estimators to estimate survival probabilities and fitted Cox Proportional Hazards models to evaluate covariate effects. Produced interpretable hazard ratios and survival plots, identifying key risk factors influencing transplant success.
